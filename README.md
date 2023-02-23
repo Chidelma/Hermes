@@ -13,7 +13,6 @@ and the Flutter guide for
 
 ## Getting started
 
-dart pub upgrade
 dart pub get
 
 ## Usage
